@@ -1,0 +1,5 @@
+bin/
+Debug/
+res/
+x64/
+.vs/
