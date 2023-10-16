@@ -12,9 +12,8 @@ This project is an example C++ MFC (Microsoft Foundation Classes) application th
 
 ## Prerequisites
 
-- Basler SDK and Pylon API
-- Microsoft Visual Studio (Version XXX)
-- Windows XX
+- Basler SDK and Pylon API (Basler Camera Pylon Suite 6.1.1)
+- Microsoft Visual Studio (Visual Studio 2017)
 
 ## Installation
 
