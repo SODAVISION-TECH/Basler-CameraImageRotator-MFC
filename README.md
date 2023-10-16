@@ -1,5 +1,7 @@
 # Basler Camera Image Rotator (MFC)
 
+![Animation Alt Text](Soda_Rotator.gif)
+
 ## Description
 
 This project is an example C++ MFC (Microsoft Foundation Classes) application that uses Basler's SDK and API for camera image manipulation. Unlike Basler's classic MFC API and Pylon API, which only support image flipping horizontally and vertically, this example demonstrates how to rotate Basler camera images by 90 and 270 degrees.
