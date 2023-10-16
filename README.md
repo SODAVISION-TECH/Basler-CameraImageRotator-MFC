@@ -58,3 +58,9 @@ Feel free to open issues or pull requests if you want to improve this project. Y
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+
+## Attribution
+
+This project utilizes code from the [RotateRescale repository](https://github.com/MattsProjects/RotateRescale/tree/main). We would like to express our gratitude to the original author for their work.
+
+- Original Repository: [RotateRescale](https://github.com/MattsProjects/RotateRescale/tree/main)
